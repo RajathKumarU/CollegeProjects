@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+li {
+	color: blue;
+	font-family: monospace;
+}
+
+p {
+	color: red;
+	font-family: sans-serif;
+}

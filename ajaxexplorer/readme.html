@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>User Manual - AjaxExplorer</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="author" content="SMSID Software">
+		<meta name="keywords" content="ajax,explorer,file,manager">
+		<meta name="description" content="Ajax File Manager - AjaxExplorer">
+
+		<link rel="SHORTCUT ICON" href="view/ae.winxp/css/images/manual.gif">
+		<link rel="STYLESHEET" href="view/includes/css/reset.css" type="text/css">
+		<link rel="STYLESHEET" href="view/ae.winxp/css/style.css" type="text/css">
+	</head>
+	<body>
+		<div id="aeHeader" class="show">
+			<div id="aeMainMenu" class="border" style="height:45px;">
+				<span class="title">User Manual - AjaxExplorer</span>
+			</div>
+		</div>
+
+		<div id="aeSideMenu" class="show">
+			<div class="panel">
+				<div class="head"><div class="title">AjaxExplorer</div></div>
+				<div class="area">
+					<a href="#">Home</a><br />
+					<a href="#read02">License</a><br />
+					<a href="#read03">Objective</a><br />
+					<a href="#read04">Requirement</a><br />
+				</div>
+			</div>
+			<div class="panel">
+				<div class="head"><div class="title">Help Section 1</div></div>
+				<div class="area">
+					<a href="#read11">Terminal</a><br />
+					<a href="#read12">Shortcuts</a><br />
+					<a href="#read13">User Profiles</a><br />
+				</div>
+			</div>
+			<div class="panel">
+				<div class="head"><div class="title">Help Section 2</div></div>
+				<div class="area">
+					<a href="#read21">System Account</a><br />
+					<a href="#read22">System Cookies</a><br />
+					<a href="#read23">System Settings</a><br />
+				</div>
+			</div>
+			<div class="panel">
+				<div class="head"><div class="title">Third Party Solutions</div></div>
+				<div class="area">
+					<a href="https://github.com/blueimp/jQuery-File-Upload" target="_blank">Blueimp jQuery-File-Upload</a><br />
+					<a href="http://sourceforge.net/projects/editarea/" target="_blank">EditArea</a><br />
+					<a href="http://www.phpconcept.net/pclzip" target="_blank">PclZip</a><br />
+					<a href="http://www.webtoolkit.info/javascript-md5.html" target="_blank">WebToolkit MD5</a><br />
+				</div>
+			</div>
+		</div>
+
+		<div id="aeReadMe">
+			<a name="read01"></a>
+			<div class="title">Welcome To AjaxExplorer Manual</div>
+			<p>
+				- Once you upload the system, do proceed to the system installation right away.<br />
+				- For those who download previous version of AjaxExplorer, replace the old files with the new version files.
+			</p>
+			<p><img alt="" src="view/ae.winxp/css/images/icon/alert.gif" /> Make sure <span class="bold">not to install on folders</span> that does not assign</span> to you by your host provider, it may cause your hosting provider to revoke your account.</p>
+			<p><br /></p>
+			<p><a href="https://sourceforge.net/projects/ajax-explorer/" target="_blank">Project Page</a> | <a href="https://sourceforge.net/projects/ajax-explorer/files/" target="_blank">Latest Release</a><br /><a href="http://sourceforge.net"><img alt="SourceForge.net Logo" src="http://sflogo.sourceforge.net/sflogo.php?group_id=204192&amp;type=5" /></a></p>
+
+			<a name="read02"></a>
+			<div class="title">License</div>
+			<p>AjaxExplorer Copyright (C) 2007-2013 S.M.Sid Software.</p>
+			<p>This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
+			<p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Head to GNU site <a href="http://www.gnu.org/licenses" target="_blank">http://www.gnu.org/licenses</a> for license copy.</p>
+
+			<a name="read03"></a>
+			<div class="title">Objective</div>
+			<p>The main objective of this project is to allow user to manage their files on the internet as easy as Windows Explorer does (or any other OS in that matter):<br />
+				- Recycle Bin features<br />
+				- Rename file by clicking it<br />
+				- Right click menu features<br />
+				- Replicate Folders directory tree view<br />
+				- Compress and extract multiple files in two click away<br />
+				- Smooth drag and drop multiple files upload (Thanks to Blueimp)<br />
+				- Text editor with syntax highlighter (Thanks to EditArea - Christophe Dolivet)<br />
+				- Dragging a file and dropping it over a folder will move the file inside the folder<br />
+				- Single click will highlight the file, holding a click while moving it will drag the file, double click will open the file base on file extension<br />
+				- Replicate keyboard & mouse control such as Delete, Ctrl+A, Ctrl+C, Ctrl+D, Ctrl+V, Ctrl+X, Ctrl+Mouse Select, and Shift+Mouse Select<br />
+				- Multiple file command (copy, edit, move, open, rename, chmod, delete, download, zip compress and extract files) can be apply through highlighted files<br />
+				- User can highlight multiple files in many ways: by keyboard press (Ctrl + A or Arrow keys), by mouse click and drag, or both (Ctrl + Mouse Select or Shift + Mouse Select)<br />
+				- and many more!
+			</p>
+			<p>The system provide fast browsing capability since it uses AJAX to feed it with directories file (only the file name & it's attributes, no other rubbish such as HTML tag were transfer on AJAX) and client-side scripting to generate the graphic on user's computer.</p>
+
+			<a name="read04"></a>
+			<div class="title">Requirement</div>
+			<p><div class="bold">Basic Requirement</div>- Requires PHP 5 or the latest, htaccess, and javascript need to be enable all the time</p><hr />
+			<p><div class="bold">Linux Server (optional)</div>- Your hosting server must be running Linux OS in order to use chmod feature</p>
+
+			<a name="read11"></a>
+			<div class="title">Terminal</div>
+			<p>There are multiple ways to use AjaxExplorer Terminal, below are some of the example:</p>
+			<p class="bold">Creating backup and open multiple files:</p>
+			<p>copy /site/wp-content/themes/twentyeleven/rtl.css</p>
+			<p>rename /site/wp-content/themes/twentyeleven/copy_rtl.css /site/wp-content/themes/twentyeleven/$DATE$_rtl.css</p>
+			<p>editor /site/wp-content/themes/twentyeleven/rtl.css</p>
+			<p>copy /site/wp-content/themes/twentyeleven/style.css</p>
+			<p>rename /site/wp-content/themes/twentyeleven/copy_style.css /site/wp-content/themes/twentyeleven/$DATE$_style.css</p>
+			<p>editor /site/wp-content/themes/twentyeleven/style.css</p>
+			<hr />
+			<p class="bold">Creating project release files:</p>
+			<p>create /temp/ajaxexplorer/ae.db/</p>
+			<p>copy /dev/ajaxexplorer/ae.db/.htaccess /temp/ajaxexplorer/ae.db/</p>
+			<p>create /temp/ajaxexplorer/ae.log/</p>
+			<p>copy /dev/ajaxexplorer/ae.log/.htaccess /temp/ajaxexplorer/ae.log/</p>
+			<p>create /temp/ajaxexplorer/ae.user/</p>
+			<p>xcopy /dev/ajaxexplorer/ /temp/ajaxexplorer/ control,model,view,changelog.txt,index.php,install.bk,license.txt,readme.html</p>
+			<p>rename /temp/ajaxexplorer/install.bk /temp/ajaxexplorer/install.php</p>
+			<p>compress /temp/ajaxexplorer /</p>
+			<p>delete /temp</p>
+			<p>rename /ajaxexplorer.zip /AjaxExplorer_1.90.zip</p>
+			<p>download /AjaxExplorer_1.90.zip</p>
+			<hr />
+			<p class="bold">Command format:</p>
+			<p>browse [FILEPATH]</p>
+			<p>compress [FILEPATH + FILENAME] [FILEPATH]</p>
+			<p>copy [FILEPATH + FILENAME] [FILEPATH]</p>
+			<p>create [FILEPATH + FILENAME]</p>
+			<p>delete [FILEPATH + FILENAME]</p>
+			<p>download [FILEPATH + FILENAME]</p>
+			<p>editor [FILEPATH + FILENAME]</p>
+			<p>extract [FILEPATH + FILENAME] [FILEPATH]</p>
+			<p>move [FILEPATH + FILENAME] [FILEPATH]</p>
+			<p>rename [FILEPATH + FILENAME] [FILEPATH + FILENAME]</p>
+			<p>search [FILEPATH + FILENAME]</p>
+			<p>sign-in [USERNAME] [USERPASS]</p>
+			<p>sign-out</p>
+			<p>xcompress [FILEPATH] [FILEPATH] [MULTIPLE FILENAME]</p>
+			<p>xcopy [FILEPATH] [FILEPATH] [MULTIPLE FILENAME]</p>
+			<p>xdelete [FILEPATH] [MULTIPLE FILENAME]</p>
+			<p>xextract [FILEPATH] [FILEPATH] [MULTIPLE FILENAME]</p>
+			<p>xmove [FILEPATH] [FILEPATH] [MULTIPLE FILENAME]</p>
+			<p>xrename [FILEPATH] [FILEPATH] [MULTIPLE FILENAME] [FILENAME]</p>
+			<hr />
+			<p class="bold">Command feature:</p>
+			<p>$DATE$ - Add current date format YYMMDD [121112]</p>
+			<p>$TIME$ - Add current Unix timestamp [1352867318]</p>
+			<hr />
+			<p><img alt="" src="view/ae.winxp/css/images/icon/terminal.png" /> You can exclude "<span class="bold">D:</span>" path when executing terminal command, its auto include, unless you wish to use "<span class="bold">L:</span>", "<span class="bold">P:</span>" or "<span class="bold">R:</span>" directory path</p>
+			<p>Create command allows you to create multiple folders and file in one line coding, end it with / to declare it as folder. Example:</p>
+			<p>- Create folders only : create /site/newfolder1/newfolder2/newfolder3/</p>
+			<p>- Create folders and file : create /site/newfolder1/newfolder2/newfolder3/newfile.php</p>
+			<p><br /></p>
+			<p>The <span class="bold">Command</span> select box can be use to get automated code which can be save and load anytime, it is something like batch file, it allows you to initiate multiple task easily</p>
+			<p>The script are stored on <span class="bold">User Profiles</span></p>
+			<a name="read12"></a>
+			<div class="title">Shortcuts</div>
+			<p>Some of the shortcuts may not work in IE, Opera and Safari browser</p>
+			<p>
+				<table>
+					<tr><td style="width: 150px"></td><td style="width: 250px"></td></tr>
+					<tr><td class="bold">~</td><td>Terminal</td></tr>
+					<tr><td class="bold">Esc</td><td>Sign Out</td></tr>
+					<tr><td class="bold">Tab</td><td>Focus on Address field * / Execute terminal command **</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">F1</td><td>User Manual</td></tr>
+					<tr><td class="bold">F2</td><td>System Account</td></tr>
+					<tr><td class="bold">F3</td><td>System Cookies</td></tr>
+					<tr><td class="bold">F4</td><td>System Setting</td></tr>
+					<tr><td class="bold">F5</td><td>Refresh Directory</td></tr>
+					<tr><td class="bold">Ctrl + F5</td><td>Reload Browser</td></tr>
+					<tr><td class="bold">F6</td><td>Toogle side menu with folder tree view</td></tr>
+					<tr><td class="bold">F7</td><td>File Editor</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">Arrow</td><td>Navigate through files *</td></tr>
+					<tr><td class="bold">Alt + Arrow</td><td>Navigate through directory history</td></tr>
+					<tr><td class="bold">Delete</td><td>Delete highlighted files *</td></tr>
+					<tr><td class="bold">Enter</td><td>Open file base on extensions settings:<br />Open file, download file or editing file</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">Ctrl + A</td><td>Select all *</td></tr>
+					<tr><td class="bold">Ctrl + C</td><td>Copy highlighted files *</td></tr>
+					<tr><td class="bold">Ctrl + D</td><td>Delete highlighted files *</td></tr>
+					<tr><td class="bold">Ctrl + S</td><td>Save file in Text Editor *</td></tr>
+					<tr><td class="bold">Ctrl + V</td><td>Paste copied/moved files *</td></tr>
+					<tr><td class="bold">Ctrl + X</td><td>Move highlighted files *</td></tr>
+					<tr><td class="bold">Ctrl + Z</td><td>Property of highlighted files *</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">Ctrl/Shift + Arrow<br />Ctrl/Shift + Mouse</td><td>Same effect as Windows Explorer</td></tr>
+					<tr><td colspan="2"><hr />Only happen when your focus is on the Address field:</td></tr>
+					<tr><td class="bold">Arrow Down</td><td>Navigate to next history directory</td></tr>
+					<tr><td class="bold">Arrow Up</td><td>Navigate to previous history directory</td></tr>
+					<tr><td class="bold">Ctrl + Arrow Left</td><td>Set current address to parent's folder</td></tr>
+					<tr><td class="bold">Ctrl + Arrow Right</td><td>Open current address folder</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td colspan="2">* When your focus is not on menu or field (such as input, select, textarea, and so on)</td></tr>
+				</table>
+			</p>
+			<p><img alt="" src="view/ae.winxp/css/images/icon/keyboard.png" /> You could see this icon on top right corner to check if file shortcuts are activated</p>
+
+			<a name="read13"></a>
+			<div class="title">User Profiles</div>
+			<p>System features such as user icon, cookies file, terminal file are save in</p>
+
+			<a name="read21"></a>
+			<div class="title">System Account</div>
+			<p>
+				<table>
+					<tr><td style="width: 150px"></td><td style="width: 250px"></td></tr>
+					<tr><td class="bold">File Path</td><td>Allow you to assign each user to individual file path</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">Create</td><td>Copy file/folder, create new file/folder, and extract file</td></tr>
+					<tr><td class="bold">Modify</td><td>Rename file/folder, restore file/folder, move file/folder, edit file content, and set file/folder permission</td></tr>
+					<tr><td class="bold">Delete</td><td>Delete file/folder and empty recycle bin</td></tr>
+					<tr><td class="bold">Transfer</td><td>Download file</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+					<tr><td class="bold">Create + Transfer</td><td>Upload file and compress file/folder</td></tr>
+					<tr><td colspan="2"><hr /></td></tr>
+				</table>
+			</p>
+			<p><div class="bold"><img alt="" src="view/ae.winxp/css/images/icon/alert.gif" /> Attention Administrator!</div><hr />The reason I set zip permission as above is to avoid people from zipping php file and download it. So it is better to use <span class="bold">File Path</span> to set user away from any of your system file if you going to set user with create & transfer permission.</p>
+
+			<a name="read22"></a>
+			<div class="title">System Cookies</div>
+			<p><div class="bold">Stored Directory</div>- It will allow you to access previous directory list on 'Address' field drop down menu</p>
+			<p><div class="bold">Wallpaper Directory</div>- Clear the field if you wish to remove the wallpaper</p><hr />
+			<p><div class="bold">Clipboard - Task</div>- Clipboard task, usually set to copy or move</p>
+			<p><div class="bold">Clipboard - From</div>- From where it will copy or move the files</p>
+			<p><div class="bold">Clipboard - File List</div>- The file list to be copied or moved</p><hr />
+			<p><div class="bold">FileTree Width</div>- Set FileTree width dimension in pixels</p>
+			<p><div class="bold">Double Click Speed</div>- How fast you need to click to access the folder or open the file. For slow clicker, set it to 999</p>
+			<p><div class="bold">Display - Desktop File</div>- Set arrangement and view of file</p>
+
+			<a name="read23"></a>
+			<div class="title">System Setting</div>
+			<p><div class="bold">Enable Recycle Bin</div>- Allow each deleted files or folders to be place in user recycle bin directory</p>
+			<p><div class="bold">Enable Replace File</div>- Allow existing file with the same name to be replace when uploading or copying file</p>
+			<p><div class="bold"><del>Enable Folder Indexing</del></div><del>- Allow folder sort and view preferences to be stored and load from 'ae.xml' file<br />- Allow system to block file from being edit by other users (file check-out, future release)<br />- Enable it if you dont mind having ae.xml on each of your folder</del></p><hr />
+			<p><div class="bold">Log File Activity</div>- Allow the system to keep track of changes made in any directory</p>
+			<p><div class="bold">Log Sign Activity</div>- Allow the system to keep track of attempt made in signing-in</p><hr />
+			<p><div class="bold">Hightlight Files</div>- Allow the system to highlight file by it's recent created or modified time</p>
+			<p><div class="bold">Sign Failure - Retries</div>- Allow the system to block user who fail to sign-in by 3 times for 100 seconds by default</p>
+			<p><div class="bold">Maximum Mass File Read</div>- Allow the system to notify user if the files read go over the specify number, can be set to zero to skip this features</p>
+			<p><div class="bold">Maximum Upload File Size</div>- Allow the system to limit the size of the upload file</p><hr />
+			<p><div class="bold">Hide Files</div>- Allow the system to exclude AjaxExplorer files and folders from all activity except compress (will prevent compress from including system files in future release)</p>
+			<p><div class="bold">File Extensions - Download</div>- Allow the system to open file for download file when user click menu "Open" link, double click files, or when pressing "Enter" key</p>
+			<p><div class="bold">File Extensions - Editor</div>- Allow the system to open file for edit file when user click menu "Open" link, double click files, or when pressing "Enter" key</p>
+			<p><div class="bold">Block File Extensions</div>- Allow the system to block specific file extension from being create, edit, rename, download, or upload (does not apply to admin user)</p>
+			<div class="space">Last edited on 15.08.2013</div>
+		</div>
+	</body>
+</html>

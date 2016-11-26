@@ -1,0 +1,39 @@
+1. AcroRd32.exe	SPYWARE
+2. attmain.exe	SPYWARE
+3. BatteryCare.exe	BENIGN
+4. BatteryCareUACbypass.exe	kernel32 SPYWARE!
+5. CA.exe	SPYWARE
+6. Calc.exe	kernel32 SPYWARE!
+7. chm2pdf.exe	kernel32 SPYWARE!
+8. codeblocks.exe	BENIGN
+9. DMT.exe	kernel32 SPYWARE!
+10. doc2emf.exe	kernel32 SPYWARE!
+11. DualWallpaper.exe	kernel32 SPYWARE!
+12. Estlcam.exe	kernel32 SPYWARE!
+13. flac.exe	BENIGN
+14. HackAsm.exe	kernel32 SPYWARE!
+15. Hackman.exe	kernel32 SPYWARE!
+16. hl2.exe	SPYWARE
+17. idag.exe	BENIGN
+18. ipmsg.exe	BENIGN
+19. jpegtopdf.exe	kernel32 SPYWARE!
+20. JTVPlayer.exe	SPYWARE
+21. launch4j.exe	BENIGN
+22. Launchy.exe	SPYWARE
+23. Lights.exe	SPYWARE
+24. metaflac.exe	BENIGN
+25. mysql.exe	SPYWARE
+26. mywe.exe	SPYWARE
+27. NK2Edit.exe	SPYWARE
+28. notepad++.exe	SPYWARE
+29. pexplorer.exe	kernel32 SPYWARE!
+30. PhotoToFilm.exe	kernel32 SPYWARE!
+31. Restore Point Creator.exe	kernel32 SPYWARE!
+32. run_css.exe	kernel32 SPYWARE!
+33. Steam.exe	SPYWARE
+34. stunnel.exe	BENIGN
+35. Tomcat8w.exe	SPYWARE
+36. Watermark.exe	SPYWARE
+37. WiseDeleter.exe	kernel32 SPYWARE!
+38. WiseJetSearch.exe	kernel32 SPYWARE!
+39. xampp-control.exe	kernel32 SPYWARE!

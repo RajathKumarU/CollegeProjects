@@ -1,0 +1,90 @@
+700020,A.J.c.bose road
+700027,Alipore
+700027,Alipore Civil court
+700014,Asylum Lane
+700086,Baghajatin
+700019,Ballygunge
+700019,Ballygunge Sc college
+700007,Barabazar
+700018,Bartala
+700034,Behala Municipal market
+700054,Bengal Chemical
+700066,Bidhangarh
+700042,Bosepukur Road
+700088,Brace Bridge
+700027,Chetla
+700017,Circus Avenue
+700007,College Square
+700001,Council House street
+700141,Daulatpur
+700013,Dharmatala
+700107,E.K.t
+700069,Esplanade
+700047,Ganguly Bagan
+700024,Garden Reach
+700047,Garia Bt
+700046,Gobinda Khatick road
+700095,Golf Green
+700069,Great Eastern hotel
+700082,Haridevpur
+700072,Hindustan Building
+700069,Income Tax building
+700014,Intally
+700032,Jadavpur University
+700034,Jayshree Park
+700068,Jodhpur Park
+700024,K.C.mills
+700020,K.M.hospital
+700031,K.P.roy lane
+700063,Kalagachia
+700099,Kalikapur
+700089,Kalindi Housing estate
+700042,Kasba
+700026,Keoratala
+700023,Khiddirpore
+700073,Kolkata University
+700020,L.R.sarani
+700029,Lake Market
+700025,Lansdowne Market
+700071,Little Russel street
+700060,Mahendra Banerjee road
+700141,Memanpur Chandannagar
+700027,Mominpur
+700099,Mukundapur
+700047,Naktala
+700027,Natioinal Library
+700053,New Alipore
+700001,New Secretariat bldg.
+700034,Panchanantala
+700017,Park Circus
+700060,Parnasree Pally
+700063,Paschim Barisha
+700032,Pgh Shah road
+700072,Princep Street
+700001,R.N. mukherjee road
+700001,Radha Bazar
+700023,Raja J.n.market
+700044,Rajabagan Dock yard
+700025,Ramkrishna Park
+700092,Regent Estate
+700001,Reserve Bank building
+700071,Russel Street
+700026,Sahanagar
+700015,Sales Tax building
+700075,Santoshpur
+700029,Sarat Bose road
+700015,Seal Lane
+700034,Senhati
+700041,Sirity
+700072,Sooterkin Street
+700026,Southern Market
+700010,Subhash Sarabor
+700024,T.G.road
+700015,Tangra
+700088,Telecom Factory
+700063,Thakurpukur
+700033,Tollygunge
+700075,Viveknagar
+700062,W.B.governors camp.
+700001,Writer's Building
+700012,Yogayog Bhawan

@@ -1,0 +1,148 @@
+560063,A F station yelahanka
+560034,Agara
+560007,Air Force hospital
+560024,Anandnagar
+562106,Anekalbazar
+560003,Aranya Bhavan
+562107,Attibele
+560047,Austin Town
+560086,Avani Sringeri mutt
+560070,B Sk ii stage
+560073,Bagalgunte
+560053,Balepete
+560085,Banashankari Iii stage
+562149,Bandikodigehalli
+560001,Bangalore Bazaar
+560002,Bangalore Corporation building
+560002,Bangalore Fort
+560001,Bangalore.
+560076,Bannerghatta Road
+560004,Basavanagudi
+560079,Basaveshwaranagar
+560103,Bellandur
+562106,Bestamaranahalli
+560010,Bhashyam Circle
+562107,Bidaraguppe
+560056,Bnagalore Viswavidalaya
+560001,Brigade Road
+560093,C.V.raman nagar
+560064,Crpf Campus yelahanka
+560018,Chamrajpet
+560040,Chandra Lay out
+560097,Chikkabettahalli
+560061,Chikkalasandra
+562130,Chunchanakuppe
+560050,Dasarahalli
+560067,Devanagundi
+560036,Devasandra
+562149,Doddagubbi
+560062,Doddakallasandra
+560071,Domlur
+560016,Doorvaninagar
+560100,Electronics City
+560065,G.K.v.k.
+560019,Gaviopuram Guttanahalli
+560085,Girinagar
+560026,Goripalya
+560013,Govindapalya
+560013,H M t
+560008,H.A.l ii stage
+560102,Hsr Layout
+562125,Handenahalli
+560024,Hebbal Kempapura
+560001,Highcourt
+560048,Hoodi
+560085,Hosakerehalli
+562106,Hulimangala
+560008,Hulsur Bazaar
+560094,Isro Anthariksha bhavan
+562106,Indalavadi
+560038,Indiranagar Com. complex
+560085,Ittamadu Layout
+560006,J.C.nagar
+560013,Jalahalli
+560013,Jalahalli Village
+560043,Jalavayuvihar
+560070,Jayanagar West
+560011,Jayangar Iii block
+560066,Jeevanbhimanagar
+560078,Jp Nagar iii phase
+560009,K. g. road
+560084,Kacharakanahalli
+560067,Kadugodi
+560043,Kalyanagar
+560079,Kamakshipalya
+562149,Kannur
+560085,Kathriguppe
+560034,Kendriya Sadan
+560092,Kodigehalli
+560034,Koramangala
+560095,Koramangala Vi bk
+560036,Krishnarajapuram
+562125,Kugur
+560074,Kumbalgodu
+560004,Lalbagh West
+560084,Lingarajapuram
+560011,Madhavan Park
+560023,Magadi Road
+560086,Mahalakshmipuram Layout
+560033,Malkand Lines
+560003,Malleswaram
+560033,Mandalay Lines
+562106,Marsur
+560054,Mathikere
+562107,Mayasandra
+560067,Medimallasandra
+560055,Milk Colony
+560054,Msrit
+560025,Museum Road
+560087,Muthusandra
+560067,Naduvathi
+560073,Nagasandra
+560096,Nandinilayout
+560002,Narasimjharaja Road
+560039,Nayandahalli
+560002,New Tharaggupet
+560021,Okalipuram
+560070,Padmanabhnagar
+560087,Panathur
+560058,Peenya I stage
+560058,Peenya Small industries
+560094,R.M.v. extension ii stage
+560010,Rajajinagar I block
+560064,Rajanakunte
+560001,Rajbhavan
+560066,Ramagondanahalli
+560016,Ramamurthy Nagar
+560025,Richmond Town
+560080,Sadashivanagar
+562106,Samandur
+560027,Sampangiramnagar
+560012,Science Institute
+560004,Shankarpura
+562106,Sidihoskote
+560042,Sivan Chetty gardens
+560002,Sri Jayachamarajendra road
+560034,St. john's medical college
+560050,State Bank of mysore colony
+560061,Subramanyapura
+562157,Tarahunise
+560029,Taverekere
+562106,Thammanayakanahalli
+560006,Training Command iaf
+560056,Ullalu Upanagara
+560087,Vartur
+560003,Venkatarangapura
+560001,Vidhana Soudha
+560097,Vidyaranyapura
+560040,Vijayanagar East
+560017,Vimapura
+560004,Visveswarapuram
+560018,Vittalnagar
+560003,Vyalikaval Extn
+560066,Whitefield
+562107,Yadavanahalli
+560078,Yelachenahalli
+560064,Yelahanka Satellite town
+560022,Yeshwanthpur Bazar
+560022,Yeswanthpura

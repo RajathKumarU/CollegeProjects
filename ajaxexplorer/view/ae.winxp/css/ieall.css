@@ -1,0 +1,6 @@
+#aeBody{visibility:visible;}
+#aeDesktop .over{filter:alpha(opacity=0);}
+#aeDesktop .drag{filter:alpha(opacity=40);}
+#aeMasking{filter:alpha(opacity=50);}
+#aeTerminal.code{filter:alpha(opacity=80);}
+#divPathList{filter:alpha(opacity=80);}

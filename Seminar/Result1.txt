@@ -1,0 +1,77 @@
+1. benign1.exe	kernel32 SPYWARE!
+1. benign1.exe	SPYWARE
+2. benign10.exe	SPYWARE
+3. benign11.exe	BENIGN
+4. benign12.exe	SPYWARE
+5. benign13.exe	kernel32 SPYWARE!
+5. benign13.exe	SPYWARE
+6. benign14.exe	SPYWARE
+7. benign15.exe	SPYWARE
+8. benign16.exe	kernel32 SPYWARE!
+8. benign16.exe	SPYWARE
+9. benign17.exe	SPYWARE
+10. benign18.exe	SPYWARE
+11. benign19.exe	SPYWARE
+12. benign2.exe	kernel32 SPYWARE!
+12. benign2.exe	SPYWARE
+13. benign20.exe	BENIGN
+14. benign21.exe	kernel32 SPYWARE!
+14. benign21.exe	SPYWARE
+15. benign22.exe	SPYWARE
+16. benign23.exe	SPYWARE
+17. benign24.exe	SPYWARE
+18. benign25.exe	SPYWARE
+19. benign26.exe	kernel32 SPYWARE!
+19. benign26.exe	SPYWARE
+20. benign27.exe	SPYWARE
+21. benign28.exe	kernel32 SPYWARE!
+21. benign28.exe	SPYWARE
+22. benign29.exe	kernel32 SPYWARE!
+22. benign29.exe	SPYWARE
+23. benign3.exe	kernel32 SPYWARE!
+23. benign3.exe	SPYWARE
+24. benign30.exe	kernel32 SPYWARE!
+24. benign30.exe	SPYWARE
+25. benign31.exe	kernel32 SPYWARE!
+25. benign31.exe	SPYWARE
+26. benign32.exe	kernel32 SPYWARE!
+26. benign32.exe	SPYWARE
+27. benign33.exe	kernel32 SPYWARE!
+27. benign33.exe	SPYWARE
+28. benign34.exe	SPYWARE
+29. benign35.exe	kernel32 SPYWARE!
+29. benign35.exe	SPYWARE
+30. benign36.exe	kernel32 SPYWARE!
+30. benign36.exe	SPYWARE
+31. benign37.exe	kernel32 SPYWARE!
+31. benign37.exe	BENIGN
+32. benign38.exe	kernel32 SPYWARE!
+32. benign38.exe	SPYWARE
+33. benign39.exe	BENIGN
+34. benign4.exe	kernel32 SPYWARE!
+34. benign4.exe	SPYWARE
+35. benign40.exe	SPYWARE
+36. benign41.exe	SPYWARE
+37. benign42.exe	SPYWARE
+38. benign43.exe	SPYWARE
+39. benign44.exe	SPYWARE
+40. benign45.exe	SPYWARE
+41. benign46.exe	kernel32 SPYWARE!
+41. benign46.exe	SPYWARE
+42. benign47.exe	kernel32 SPYWARE!
+42. benign47.exe	SPYWARE
+43. benign48.exe	kernel32 SPYWARE!
+43. benign48.exe	BENIGN
+44. benign49.exe	kernel32 SPYWARE!
+44. benign49.exe	BENIGN
+45. benign5.exe	kernel32 SPYWARE!
+45. benign5.exe	SPYWARE
+46. benign50.exe	kernel32 SPYWARE!
+46. benign50.exe	SPYWARE
+47. benign51.exe	SPYWARE
+48. benign6.exe	kernel32 SPYWARE!
+48. benign6.exe	BENIGN
+49. benign7.exe	SPYWARE
+50. benign8.exe	kernel32 SPYWARE!
+50. benign8.exe	BENIGN
+51. benign9.exe	SPYWARE

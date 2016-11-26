@@ -1,0 +1,271 @@
+110010,505 A b workshop
+110038,A F rajokari
+110058,A-3 Janak puri
+110002,A.G.c.r.
+110025,Abul Fazal enclave-i
+110033,Adrash Nagar
+110002,Ajmeri Gate extn.
+110019,Alaknanda
+110003,Aliganj
+110021,Anand Niketan
+110005,Anand Parbat indl. area
+110092,Anand Vihar
+110034,Anandvas Shakurpur
+110049,Andrewsganj
+110010,Aps Colony
+110026,Ashoka Park extn.
+110039,Auchandi
+110047,Aya Nagar
+110032,Babarpur
+110044,Badarpur
+110071,Badusarai
+110036,Bakhtawar Pur
+110015,Bakkarwala
+110040,Bankner
+110028,Baprola
+110006,Baratooti
+110001,Baroda House
+110039,Bawana
+110010,Bazar Road
+110001,Bhagat Singh market
+110053,Bhajan Pura
+110033,Bhalaswa
+110053,Brahampuri
+110086,Budh Vihar
+110084,Burari
+110003,C G o complex
+110074,C.S.k.m. school
+110021,Chanakya Puri
+110006,Chandni Chowk
+110074,Chattarpur
+110015,Chaukhandi
+110017,Chirag Delhi
+110054,Civil Lines
+110010,Cod
+110001,Constitution House
+110028,D C goyla
+110058,D.E.s.u. colony
+110028,Dabri
+110062,Dakshinpuri Phase-i
+110062,Dakshinpuri Phase-iii
+110002,Darya Ganj
+110094,Dayalpur
+110024,Defence Colony
+110010,Delhi Cantt
+110042,Delhi Engg. college
+110006,Delhi Sadar bazar
+110005,Desh Bandhu gupta road
+110073,Dhansa
+110077,Dhulsiras
+110028,Dindarpur
+110054,Distt Courts
+110032,Distt. court (kkd)
+110062,Dr. ambedkar nagar
+110075,Dwarka Sec-6
+110065,East Of kailash phase-i
+110015,Esi
+110020,F F c okhla
+110009,G.T.b.nagar
+110030,Gadaipur
+110031,Gandhi Nagar
+110002,Gandhi Smarak nidhi
+110031,Geeta Colony
+110081,Gheora
+110030,Ghitorni
+110053,Ghonda
+110003,Golf Links
+110032,Goverdhan Bihari colony
+110048,Greater Kailash
+110016,Green Park market
+110009,Gujranwala Colony
+110049,Gulmohar Park
+110011,Gym Khana club
+110088,Haiderpur
+110014,Hari Nagar ashram
+110064,Hari Nagar dadb block
+110064,Hari Nagar
+110016,Hauz Khas
+110091,Himmatpuri
+110036,Hiranki
+110015,Hirankudna
+110012,I.A.r.i.
+110037,Igi Airport
+110068,Ignou
+110035,Inderlok
+110012,Inderpuri
+110073,Issapur
+110084,Jagatpur
+110053,Jagjit Nagar
+110033,Jahangir Puri d block
+110058,Jail Road
+110044,Jaitpur
+110006,Jama Masjid
+110027,Janta Market
+110039,Jat Khore
+110047,Jaunapur
+110014,Jeevan Nagar
+110059,Jeevan Park
+110084,Jharoda Majraa
+110028,Jhatikara
+110095,Jhilmil Tahirpur
+110067,Jnu New campus
+110015,Jwalaheri
+110036,Kadipur
+110048,Kailash Colony
+110031,Kailash Nagar
+110078,Kakrola
+110091,Kalyanvas
+110040,Kanya Gurukul
+110037,Kapashera
+110005,Karol Bagh
+110003,Kasturba Nagar
+110039,Katewara
+110036,Khampur
+110094,Khazuri Khas
+110028,Khera Dabur
+110082,Khera Khurd
+110018,Khyala Phase -  i
+110023,Kidwai Nagar west
+110024,Krishna Market
+110015,L. m. nagar indl. area
+110030,Lado Sarai
+110001,Lady Harding medical college
+110019,Lal Kuan
+110040,Lampur
+110092,Laxmi Nagar
+110003,Lodi Road
+110093,Loni Road housing complex
+110076,Madanpur Khadar
+110063,Madipur Slum quarter
+110018,Mahabir Nagar
+110037,Mahipalpur
+110021,Malcha Marg
+110007,Malka Ganj
+110092,Mandawali Fazalpur
+110047,Mandi
+110083,Mangolpuri A block
+110083,Mangolpuri N block
+110048,Masjid Moth
+110059,Matiala
+110053,Maujpur
+110034,Maurya Enclave
+110064,Maya Puri
+110096,Mayur Vihar ph-iii
+110002,Minto Road
+110028,Mitraon
+110009,Model Town iii
+110036,Mukhmelpur
+110028,Mundela Kalan
+110015,N.I.area
+110078,N.S.i.t. dwarka
+110043,Najafgarh
+110093,Nand Nagri "c"
+110037,Nangal Dewat
+110006,Nangal Poona
+110015,Nangloi - ii
+110028,Naraina Industrial estate
+110040,Narela
+110028,Nasirpur
+110012,National Physical laboratory
+110082,Naya Bans
+110068,Neb Sarai
+110065,Nehru Nagar
+110049,New Delhi south ext-ii
+110001,New Delhi.
+110053,New Usmanpur
+110015,Nilothi
+110009,Nirankari Colony
+110001,North Avenue
+110020,Okhla Industrial area phase-i
+110095,Old Seemapuri
+110035,Onkar Nagar
+110037,Palam Airport
+110017,Panchsheel Enclave
+110003,Pandara Road
+110028,Pandwala Kalan
+110030,Paryavaran Complex
+110063,Paschim Vihar b block
+110008,Patel Nagar south
+110008,Patel Nagar
+110001,Patiala House
+110054,Patrachar Vidyalay
+110042,Pehlad Pur
+110086,Pooth Kalan resettlement
+110022,Postal Sb r.k.puram sector-6
+110035,Power House
+110014,Pratap Market
+110081,Punjab Khor
+110026,Punjabi Bagh
+110017,Pushp Vihar
+110066,R K puram (main)
+110022,R K puram sect-12
+110022,R K puram sect-4
+110022,R K puram sect-8
+110066,R K puram west
+110031,Raghubar Pura
+110001,Rail Bhawan
+110077,Raj Nagar - ii
+110002,Rajghat Power house
+110027,Rajouri Garden
+110051,Ram Nagar
+110015,Ramesh Nagar
+110035,Rampura
+110007,Rana Pratap bagh
+110081,Rani Khera
+110073,Raota
+110085,Rohini Courts
+110085,Rohini Sector 5
+110007,Roshan Ara road
+110029,S J enclave
+110094,Sabhapur
+110049,Sadiq Nagar
+110046,Sagarpur
+110049,Sahpurjat
+110042,Samai Pur
+110001,Sansad Marg
+110065,Sant Nagar
+110034,Saraswati Vihar
+110023,Sarojini Nagar
+110017,Sarvodya Enclave
+110005,Sat Nagar
+110061,Shahbad Mohammadpur
+110032,Shahdara
+110092,Shakarpur
+110007,Shakti Nagar
+110056,Shakur Basti depot
+110034,Shakurbasti Rs
+110088,Shalimar Bagh
+110001,Shastri Bhawan
+110026,Shivaji Park
+110032,Shivaji Park
+110010,Signal Enclave
+110040,Singhu
+110034,Sri Nagar colony
+110065,Sriniwaspuri
+110010,Station Road
+110027,Subhash Nagar west
+110030,Sultanpur
+110086,Sultanpuri C block
+110001,Supreme Court
+110092,Surajmal Vihar
+110030,T B hospital
+110036,Tajpur Kalan
+110062,Talimabad
+110015,Tikri Kalan
+110018,Tilak Nagar east
+110028,Tilangpur Kotla
+110054,Timarpur
+110091,Trilok Puri
+110019,Tugalkabad
+110011,Udyog Bhawan
+110069,Union Public service commissio
+110070,Vasant Kunj
+110057,Vasant Vihar-1
+110057,Vasant Vihar-2
+110096,Vasundhra Enclave
+110018,Vikas Puri
+110095,Vivek Vihar
+110052,Wazir Pur iii
+110092,Yozna Vihar
+110015,Zakhira
+110025,Zakir Nagar

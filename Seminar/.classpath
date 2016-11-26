@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CN_Lab"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CuisineLocator"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CustomBrowser"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MachineLearning3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pincode"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Rajath"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SpywareDetect"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SqlProjectOperation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WT_Practice"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

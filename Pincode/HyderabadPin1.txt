@@ -1,0 +1,115 @@
+500030,A.G.college
+500045,A.Gs. staff quarters
+500012,Afzalgunj
+500044,Ambernagar
+500004,Anandnagar
+500015,Anantaram
+501301,Ankireddipalli
+501301,Annajiguda
+500040,Aphb Colony moulali
+500048,Attapur
+500058,Badangpet
+500005,Balapur
+500027,Barkatpura
+500012,Begumbazar
+500003,Begumpet Policelines
+500080,Bholakpur
+501301,Bogaram
+500022,Central Secretariat
+500064,Chandulalbaradari
+501301,Cherlapalli
+500081,Cyberabad
+500008,Dargah Hussain shahwali
+500028,Dattatreya Colony
+500060,Dilsukhnagar Colony
+500062,Ecil
+500053,Falaknuma
+500018,Fathenagar Colony
+500015,Gajularamaram
+500080,Gandhinagar
+500015,Girmapur
+500020,Golconda Chowrastha
+500068,Gsi(sr) Bandlaguda
+500052,Hasannagar
+500029,Himayathnagar
+500001,Hindi Bhawan
+500035,Huda Residential complex
+500064,Hussainialam
+500016,Hyd Airport i
+500002,Hyderabad Jubilee
+500001,Hyderabad.
+500076,I.E.nacharam
+500007,Iict
+500040,Ie Moulali
+500007,Jama I osmania
+500079,Jillellaguda
+500033,Jubilee Hills
+500058,Kanchanbagh
+500006,Karwan Sahu
+500077,Kattedan Ie
+501301,Keesaragutta
+500004,Khairatabad
+500003,Kingsway
+500030,Kismathpur
+501301,Korremal
+500015,Kushaiguda
+500062,Kyasaram
+500063,Lic Division
+500017,Lallaguda
+500008,Lunger House
+500081,Madhapur
+500076,Mallapur
+500006,Mangalhat
+500001,Moazzampura
+500018,Moosapet
+500015,Mudchintanapalli
+500020,Musheerabad Dso
+500044,Nallakunta
+500062,Napier Lines
+500026,Nehrunagar
+500063,New Mla quarters
+500007,Ngri
+500015,Nutankal
+500029,Old Mla quarters
+500036,Osmannagar
+500025,Padmaraonagar
+500005,Pahadishareef
+500015,Pedalaxmapur
+500003,Picket
+500016,Prakashamnagar
+500095,Putlibowli
+500069,R.C.imarat
+500071,Rail Nilayam
+500016,Rajbolaram
+500035,Ramakrishanapuram
+500095,Ramkoti
+500074,Rangareddy Dt courts
+500023,Reinbazar
+500024,Sahifa
+500059,Saidabad Colony
+500008,Sakkubai Nagar
+500018,Sanathnagar I e
+500059,Santoshnagar Colony
+500003,Secunderabad
+500013,Seminary
+500028,Shantinagar
+500004,Shyam Nagar
+500076,Snehapuri Colony
+500033,South Banjara hills
+500013,Srinivasapuram
+500001,State Bank of hyderabad
+500027,Stn Kachiguda
+500015,Suraram
+500052,Svpnpa
+500064,Tadbun
+500007,Tarnaka
+500015,Thumkunta
+500080,Turkapalliyadaram
+500053,Uppuguda
+500079,Vaishalinagar
+500038,Vengal Rao nagar
+500044,Vidyanagar
+501101,Vikarabad
+500023,Yakutpura
+500020,Zamistanpur
+500013,Zindatelismath

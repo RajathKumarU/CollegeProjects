@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Stacking Paragraphs</title>
+<style type="text/css">
+.para1 {
+	border: solid thick #C0C0C0;
+	padding: 1in;
+	width: 180px;
+	background-color: #0000D0;
+	color: white;
+	position: absolute;
+	top: 70px;
+	left: 4in;
+	z-index: 1;
+}
+
+.para2 {
+	border: solid thick #808000;
+	padding: 1in;
+	width: 180px;
+	background-color: red;
+	color: white;
+	position: absolute;
+	top: 105px;
+	left: 5in;
+	z-index: 2;
+}
+
+.para3 {
+	border: solid thick #00ffff;
+	padding: 1in;
+	width: 180px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top: 140px;
+	left: 6in;
+	z-index: 3;
+}
+
+.display {
+	font-size: 25pt;
+	color: blue;
+	text-align: center;
+}
+
+p:hover {
+	background-color: rgb(250, 200, 150);
+	font-size: 25px;
+	color: white;
+}
+;
+</style>
+<script type="text/javascript">
+	var stack1 = "stack1";
+	function move(curStack) {
+		var oldStack = document.getElementById(stack1).style;
+		oldStack.zIndex = "0";
+		var newStack = document.getElementById(curStack).style;
+		newStack.zIndex = "10";
+		stack1 = document.getElementById(curStack).id;
+	}
+</script>
+</head>
+<body>
+	<h2 class="display">Stacking of Paragraphs on top of each other</h2>
+	<p class="para1" id="stack1" onmouseover="move('stack1')">Dr R N
+		Shetty</p>
+	<p class="para2" id="stack2" onmouseover="move('stack2')">Dr H N
+		ShivShankar</p>
+	<p class="para3" id="stack3" onmouseover="move('stack3')">Dr M K
+		Venkatesha</p>
+</body>
+</html>

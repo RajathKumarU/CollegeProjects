@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+/*
+AjaxExplorer Copyright (C) 2007-2013 S.M.Sid Software
+
+This program is free software:you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation,either version 3 of the License,or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Head to
+GNU site http://www.gnu.org/licenses/ for license copy.
+*/
+
+/* CSS Reset - Based on http://meyerweb.com/eric/tools/css/reset/ */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,aeMaskArea,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{font:inherit;border:0;margin:0;padding:0;font-size:100%;background:transparent;vertical-align:baseline;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+body{line-height:1;}ol,ul{list-style:none;}a,ins{text-decoration:none;}

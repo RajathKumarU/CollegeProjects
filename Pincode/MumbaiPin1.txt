@@ -1,0 +1,92 @@
+400029,A I staff colony
+400011,Agripada
+400004,Ambewadi
+400069,Andheri East
+400037,Antop Hill
+400053,Azad Nagar
+400051,B.N. bhavan
+400050,Bandra West
+400090,Bangur Nagar
+400012,Best Staff colony
+400028,Bhawani Shankar
+400091,Borivali
+400092,Borvali West
+400020,Central Building
+400093,Chakala Midc
+400067,Charkop
+400004,Chaupati
+400011,Chinchpokli
+400005,Colaba
+400026,Cumballa Hill
+400014,Dadar
+400068,Dahisar
+400052,Danda
+400013,Delisle Road
+400017,Dharavi Road
+400026,Dr Deshmukh marg
+400004,Girgaon
+400062,Goregaon
+400062,Goregaon Rs
+400026,Gowalia Tank
+400058,H.M.p. school
+400011,Haines Road
+400057,Hanuman Road
+400005,Holiday Camp
+400095,Ins Hamla
+400059,J.B. nagar
+400011,Jacob Circle
+400102,Jogeshwari West
+400033,Kalachowki
+400008,Kamathipura
+400067,Kandivali West
+400068,Ketkipada
+400052,Khar Delivery
+400051,Kherwadi
+400033,L B s n e collage
+400064,Liberty Garden
+400001,M.P.t.
+400004,Madhavbaug
+400016,Mahim
+400016,Mahim East
+400064,Malad
+400064,Malad West dely
+400003,Mandvi
+400020,Marine Lines
+400059,Marol Naka
+400019,Matunga Railway workshop
+400010,Mazgaon Dock
+400016,Mori Road
+400008,Mumbai Central
+400007,N . s.patkar
+400065,Nagari Niwara
+400021,Nariman Point
+400021,New Yogakshema
+400003,Null Bazar
+400064,Orlem
+400012,Parel
+400003,Parel Rly work shop
+400009,Princess Dock
+400066,Rajendra Nagar
+400028,Ranade Road
+400033,Reay Road
+400028,S Savarkar marg
+400002,S. c. court
+400099,Sahar P & t colony
+400054,Santacruz Central
+400055,Santacruz(east)
+400032,Secretariate
+400015,Sewri
+400028,Shivaji Park
+400001,Stock Exchange
+400033,Tank Road
+400002,Thakurdwar
+400034,Tulsiwadi
+400010,V K bhavan
+400005,V.W.t.c.
+400061,Vesava
+400057,Vileeparle (east)
+400056,Vileparle(west)
+400031,Wadala Rs
+400030,Worli Colony
+400030,Worli Police camp
+400030,Worli Sea face

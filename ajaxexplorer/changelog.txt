@@ -1,0 +1,221 @@
+
+AjaxExplorer 1.10.3.2 - 21.08.2013
+----------------------------------------------------------------------------------------------
+- Update readme
+- Add new login logo
+- Add file path trail
+- Fixed critical bug, shared session
+
+AjaxExplorer 1.10.3.1 - 15.08.2013
+----------------------------------------------------------------------------------------------
+- Update readme
+- Minor css tweak
+- Fixed file chmod bug
+
+AjaxExplorer 1.10.3 - 14.08.2013
+----------------------------------------------------------------------------------------------
+- Fixed properties bug
+- Fixed editor permission
+- Add stripslashes to editor on save
+- Add link to profile stored script
+- Add 'Open Containing Folder' on search
+- Add arrangement and view file to cookies setting
+
+AjaxExplorer 1.10.2.3 - 12.08.2013
+----------------------------------------------------------------------------------------------
+- Fixed upload permission
+- Fixed file rename bug on chrome
+
+AjaxExplorer 1.10.2.2 - 07.08.2013
+----------------------------------------------------------------------------------------------
+- Do some visual changes
+- Minor changes and fixes
+
+AjaxExplorer 1.10.2.1 - 05.07.2013
+----------------------------------------------------------------------------------------------
+- Minor changes and fixes
+
+AjaxExplorer 1.10.2 - 04.07.2013
+----------------------------------------------------------------------------------------------
+- Update readme.
+- Fixed search engine bug
+- Fixed new bug introduced on 1.10.x.
+- Replace upload script with Blueimp jQuery-File-Upload (Drag and drop upload)
+
+AjaxExplorer 1.10.1.1 - 08.12.2012
+----------------------------------------------------------------------------------------------
+- Update readme.
+- Tweak right click menu.
+- Fixed new bug introduced on v1.10.1.
+- FileTree width are now save and load from cookies and can be adjust from "System Cookies"
+
+AjaxExplorer 1.10.1 - 07.12.2012
+----------------------------------------------------------------------------------------------
+- Do some visual changes.
+- Add new keyboard shortcuts.
+- Make fields more user friendly.
+- Disable file shortcuts on focus to input/select/textarea.
+- Add new features, search file on case match and file content.
+- Save and load cookies data on user profiles on leave or sign-out.
+- Fixed chmod field, right-click menu, search result image link, cross browser bugs.
+- Highlight files by created or modified time, timeframe can be adjust via System Setting.
+- And many more...
+
+AjaxExplorer 1.96 - 02.12.2012
+----------------------------------------------------------------------------------------------
+- Fixed installer session destroy bugs.
+- Fixed critical security bug on library aeFileAppend function.
+
+AjaxExplorer 1.95 - 24.11.2012
+----------------------------------------------------------------------------------------------
+- Fixed new bug introduced on 1.94v.
+- Add new link on "System Setting" to access logs file in "EditArea".
+- Add new path "L:/" to access "ae.log" folders, only admin can access it.
+
+AjaxExplorer 1.94 - 23.11.2012
+----------------------------------------------------------------------------------------------
+- Do minor recode.
+- Do some visual changes.
+- Do some fixed on cross browser issues :(IE):
+
+AjaxExplorer 1.93 - 20.11.2012
+----------------------------------------------------------------------------------------------
+- Change "FileTree" resize flow.
+- Change create file and folder flow.
+- Codes are CSS 3.0 and HTML 5.0 validated.
+- Fixed some of the new bugs introduce on 1.90.
+- Add blocking mechanism on 3 times failed sign-in, default wait time is 100 seconds and can be set in "System Setting" > "Sign Failure - Retries".
+
+AjaxExplorer 1.92 - 16.11.2012
+----------------------------------------------------------------------------------------------
+- Do some visual changes.
+- Add new command to terminal: search.
+- Fixed the javascript loading cleartimeout.
+- Fixed some of the new bugs introduce on 1.90.
+- Disable some of file tasks on search and recycle files.
+- When using arrow key, page scrolls base on target files.
+- Allow "Starting Directory" to be install in any location.
+- Reintroduce cancel installer features to retain old database.
+- Replace and added new file extension images with Jordan Michael file icons vs2.
+- Improve FileTree features, can resize the panel, drag files to user profiles or recycle bin for delete.
+
+AjaxExplorer 1.91 - 14.11.2012
+----------------------------------------------------------------------------------------------
+- Update readme.
+- Resize preview image.
+- Minor fixed on file property.
+- Fixed manage user assign path.
+- Readjust stylesheet z-index property.
+- Readjust the keyboard shortcuts logic.
+- Added more info on user list under Manage Users.
+
+AjaxExplorer 1.90 - 13.11.2012
+----------------------------------------------------------------------------------------------
+- Add new shortcuts.
+- Add timezone setting.
+- Add terminal features.
+- Add loading and abort features.
+- Able to view files within AjaxExplorer.
+- Session will lock user ip number to session_id.
+- Update the files handlers to utf8 and urldecode.
+- Recode entire javascript, stylesheet and html files.
+- Ajax can now stack run operation without interuption.
+- Change the flow of keyboard shortcuts on address field.
+- Allow "Maximum Mass File Read" to be set to 0 to skip it.
+- And many more...
+
+AjaxExplorer 1.84 - 01.11.2012
+----------------------------------------------------------------------------------------------
+- Fixed file path, file drag and drop.
+
+AjaxExplorer 1.83 - 01.11.2012
+----------------------------------------------------------------------------------------------
+- Fixed search function and do minor changes on readme file.
+
+AjaxExplorer 1.82 - 31.10.2012
+----------------------------------------------------------------------------------------------
+- Fixed file downloader.
+- Fixed file open coding.
+- Add new keyboard shortcuts.
+- Can download multiple files in one click.
+- Add detection to check if user session has expired and direct to login page.
+- Block file extension now covers download permission. (does not apply to admin)
+- Add "Maximum Mass File Read", "Hide Files", "File Extensions Open - Download", and "File Extensions Open - File Editor" settings field at "System Setting" menu.
+- Maximum Mass File Read: The setting is to notify user if the files read go over the 1000 mark by default.
+- Hide Files: The setting is to exclude AjaxExplorer files and folders from all activty except compress, default "ajaxexplorer,ae.xml"
+- File Extensions Open - Download: When click menu "Open" link, double click files, or when pressing spacebar, files with the extension will be open as downloadable, default "7z,doc,docx,pdf,ppt,pptx,rar,xls,xlsx,zip".
+- File Extensions Open - File Editor: When click menu "Open" link, double click files, or when pressing spacebar, files with the extension will be open in EditArea file editor, default "css,js,htaccess,htm,html,ini,php,sql,txt,xml".
+
+AjaxExplorer 1.81 - 30.10.2012
+----------------------------------------------------------------------------------------------
+- Fixed open folder in new tab.
+- Tweak stylesheet user-select none.
+- Tweak EditArea show, hide, and resize logic.
+- Centralized and improve ajaxexplorer php library output text.
+- Able to view all messages and errors (ae, js, and php) via "View Message Logs".
+- Display ajaxexplorer message base on operation (black), tips (blue), success (green), and error (red)
+
+AjaxExplorer 1.80 - 29.10.2012
+----------------------------------------------------------------------------------------------
+- MCV Framework
+- PHP Object Oriented
+- Change file text editor flow, allow several files to be edit
+- Able to rename, extract, and compress multiple highlighted files
+- New folder structure. (ae.db, ae.log, ae.user, control, model, view)
+- Disable few of the minor features. (share files, user icon, and so on)
+- Continue fixing tons of bugs and security hole via JavaScript vulnerability.
+- Allow admin user to create, edit, rename or upload files with block file extensions.
+- Block access to system files via user interface, htaccess blocking 'ae.db' and 'model' folders, and remove JavaScript role in handling main directory path
+- And many more...
+
+AjaxExplorer 1.75 - 22.09.2012
+----------------------------------------------------------------------------------------------
+- Fixed logs path link on System Setting menu
+- Fixed text editor utf-8 encode/decode and loading failure
+
+AjaxExplorer 1.74 - 20.09.2012
+----------------------------------------------------------------------------------------------
+- Do some js fixes and changes on installer display directory permission
+- Fixed myprofile & recyclebin link, so it will work in whatever subfolder and path configured
+
+AjaxExplorer 1.73 - 19.09.2012
+----------------------------------------------------------------------------------------------
+- Fixed search php error.
+- Fixed installer to continue create new ae.db/user.php
+- Fixed My Profile and Recycle Bin link for sub folder setting.
+
+AjaxExplorer 1.72 - 19.09.2012
+----------------------------------------------------------------------------------------------
+- Replace zip extension with PclZip library.
+- Fixed SWFUpload disabled button on chrome.
+- Create new 'ae.log' folder to store logs files.
+- Create new 'ae.db' folder to store config and login files.
+- Add script to check, convert and remove index.xml/thumbs.txt.
+- Folder setting index.xml/thumbs.txt are now replace with ae.xml.
+- Set .htaccess to block all access to 'ae.db' folder. (config/login files path)
+- Prevent user from hijacking ajaxexplorer via ajax request. (trim '..' from php post)
+- Prevent user from hijacking ajaxexplorer via System Cookies. (trim '..' from js input)
+- Prevent user from create/rename file extension base on "Block File Extension" (default: exe,php).
+
+AjaxExplorer 1.71 - 17.09.2012
+----------------------------------------------------------------------------------------------
+- Fix installer to convert user folder to lowercase
+
+AjaxExplorer 1.70 - 17.09.2012
+----------------------------------------------------------------------------------------------
+- Fixed bug and do minor re-code on installer file.
+- Rename php variable to more meaningful word.
+- Re-code most of the php script files.
+- Auto to lower case when creating user.
+- Remove invalid symbol when handling user/file.
+- Block normal user from accessing System Setting.
+- Remove old upload script and replace with SWFUpload.
+- Block exe and php file from upload (Can be edit via System Setting - Upload Rule)
+- Clean up html codes, and remove obsolete table/frame tags.
+- Folder setting thumbs.txt are now replace with index.xml.
+- Address bar auto include '/' and trim to user input.
+- Provide more detail on user permission error.
+- Add new extension docx, pptx, xlsx.
+- Add EditArea to text editor page.
+- Remove user icon on login page.
+- Fixed share folder feature.
